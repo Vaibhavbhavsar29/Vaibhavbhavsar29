@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bhavsar</h1>
 <h3 align="center">A passionate Dotnet/Fullstack developer from India</h3>
 <h3 align="center">Chat GPT - based on what you know of me, draw a picture what you think my life currently looks like</h3>
-<p><img src="https://drive.google.com/file/d/10pm6rUuNZnVkqoeVs6pFrtxGJdfnyykG/view?usp=drive_link"></p>
+<p><img src="https://drive.google.com/file/d/10pm6rUuNZnVkqoeVs6pFrtxGJdfnyykG/view?usp=drive_link" alt="Chat GPT - based on what you know of me, draw a picture what you think my life currently looks like"></p>
 
 - 🔭 I’m currently working on **Angular 17 Project**
 
