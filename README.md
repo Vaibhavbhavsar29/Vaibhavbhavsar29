@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bhavsar</h1>
 <h3 align="center">A passionate Dotnet/Fullstack developer from India</h3>
-<p><img src="https://drive.google.com/file/d/10pm6rUuNZnVkqoeVs6pFrtxGJdfnyykG/view?usp=drive_link" alt="Chat GPT - based on what you know of me, draw a picture what you think my life currently looks like"></p>
+<p align="center"><img src="https://drive.google.com/file/d/10pm6rUuNZnVkqoeVs6pFrtxGJdfnyykG/view?usp=drive_link" alt="Chat GPT - based on what you know of me, draw a picture what you think my life currently looks like"></p>
+
 
 - 🔭 I’m currently working on **Angular 17 Project**
 
@@ -12,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/bhavsarvaibhav4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavsarvaibhav4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaibhavbhavsar1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhavbhavsar1998" height="30" width="40" /></a>
 </p>
 
