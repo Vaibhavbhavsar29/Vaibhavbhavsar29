@@ -3,9 +3,9 @@
 <p align="center"><img src="https://drive.google.com/file/d/10pm6rUuNZnVkqoeVs6pFrtxGJdfnyykG/view?usp=drive_link" alt="Chat GPT - based on what you know of me, draw a picture what you think my life currently looks like"></p>
 
 
-- 🔭 I’m currently working on **Angular 17 Project**
+- 🔭 I’m currently working on **Core MVC project**
 
-- 🌱 I’m currently learning **Angular 17**
+- 🌱 I’m currently learning **Angular 17 && .net core MVC**
 
 - 💬 Ask me about **C#, .net**
 
