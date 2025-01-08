@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bhavsar</h1>
-<h3 align="center">A passionate Dotnet/Fullstack developer from India</h3>
-<p align="center"><img src="https://drive.google.com/file/d/10pm6rUuNZnVkqoeVs6pFrtxGJdfnyykG/view?usp=drive_link" alt="Chat GPT - based on what you know of me, draw a picture what you think my life currently looks like"></p>
-
+<h3 align="center">otnet/Fullstack developer</h3>
 
 - 🔭 I’m currently working on **Core MVC project**
 
 - 🌱 I’m currently learning **Angular 17 && .net core MVC**
-
-- 💬 Ask me about **C#, .net**
 
 - 📫 How to reach me **vaibhav.sb29@gmail.com**
 
